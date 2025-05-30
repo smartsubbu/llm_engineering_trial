@@ -4,7 +4,7 @@ Experience:
 - Developed web applications using Python and JavaScript.
 - Collaborated with cross-functional teams to deliver projects on time.
 Education:
-- B.S. in Computer Science from XYZ University.
+- B.S. in Computer Science from Clemson University.
 Skills:
-- Python, JavaScript, React, SQL
+- Python, JavaScript, React, SQL, J2EE, Eclipse
 
